@@ -46,10 +46,10 @@
 ## 📸 Interface
 
 
-🍿 Header estilo catálogo
-🎚️ Slider vermelho estilo Netflix
-🛒 Cards animados com hover
-🔥 Layout grid estilo streaming
+- 🍿 Header estilo catálogo
+- 🎚️ Slider vermelho estilo Netflix
+- 🛒 Cards animados com hover
+- 🔥 Layout grid estilo streaming
 
 
 ---
