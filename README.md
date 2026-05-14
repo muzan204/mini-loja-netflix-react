@@ -1,16 +1,103 @@
-# React + Vite
+# 🍿🛒 Mini Loja Netflix Style
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-Animations-EF2D5E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI-Netflix%20Style-E50914?style=for-the-badge"/>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  Um mini e-commerce moderno com filtro de preço e animações estilo Netflix usando React + Framer Motion.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎬 Preview do Projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+🍿 Interface estilo catálogo Netflix
+🛒 Produtos dinâmicos
+🎚️ Filtro de preço em tempo real
+✨ Animações suaves e modernas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## ✨ Funcionalidades
+
+- 🎚️ Filtro de preço com slider interativo  
+- 🛒 Lista de produtos dinâmica  
+- 💰 Formatação de moeda (BRL)  
+- 🎬 Animações estilo Netflix com Framer Motion  
+- 💨 Transições suaves entre estados  
+- 📱 Layout moderno e responsivo  
+
+---
+
+## 🚀 Tecnologias usadas
+
+- ⚛️ React  
+- ⚡ Vite  
+- 🎞️ Framer Motion  
+- 🎨 CSS moderno  
+
+---
+
+## 📸 Interface
+
+
+🍿 Header estilo catálogo
+🎚️ Slider vermelho estilo Netflix
+🛒 Cards animados com hover
+🔥 Layout grid estilo streaming
+
+
+---
+
+## 📂 Estrutura do projeto
+
+```bash
+mini-loja/
+├── src/
+│   ├── App.jsx
+│   ├── styles.css
+│   └── main.jsx
+├── index.html
+└── package.json
+```
+---
+
+##⚙️ Como rodar o projeto
+```bash
+# Clonar o repositório
+git clone https://github.com/SEU_USUARIO/mini-loja-netflix-react.git
+
+# Entrar na pasta
+cd mini-loja-netflix-react
+
+# Instalar dependências
+npm install
+
+# Rodar o projeto
+npm run dev
+```
+🎯 Aprendizados
+Uso de useState no React
+Filtragem dinâmica de listas
+Animações com Framer Motion
+UI moderna inspirada em streaming
+Componentização e organização de código
+
+---
+
+💡 Melhorias futuras
+🛒 Carrinho de compras
+🔍 Busca por produtos
+❤️ Sistema de favoritos
+🏷️ Filtro por categoria
+💾 Salvamento com localStorage
+👨‍💻 Autor
+
+Feito com 💙 por Gustavo Belchior
+
+<p align="center"> ⭐ Se curtir o projeto, deixe uma estrela no repositório! </p> ```
