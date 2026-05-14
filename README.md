@@ -81,6 +81,8 @@ npm install
 # Rodar o projeto
 npm run dev
 ```
+---
+
 🎯 Aprendizados
 Uso de useState no React
 Filtragem dinâmica de listas
@@ -100,4 +102,4 @@ Componentização e organização de código
 
 Feito com 💙 por Gustavo Belchior
 
-<p align="center"> ⭐ Se curtir o projeto, deixe uma estrela no repositório! </p> ```
+```<p align="center"> ⭐ Se curtir o projeto, deixe uma estrela no repositório! </p> ```
