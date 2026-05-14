@@ -83,12 +83,14 @@ npm run dev
 ```
 ---
 
-🎯 Aprendizados
-Uso de useState no React
-Filtragem dinâmica de listas
-Animações com Framer Motion
-UI moderna inspirada em streaming
-Componentização e organização de código
+## 🎯 Aprendizados
+
+- Uso de useState no React
+- Filtragem dinâmica de listas
+- Animações com Framer Motion
+- UI moderna inspirada em streaming
+- Componentização e organização de código
+
 
 ---
 
