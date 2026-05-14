@@ -92,14 +92,6 @@ Componentização e organização de código
 
 ---
 
-💡 Melhorias futuras
-🛒 Carrinho de compras
-🔍 Busca por produtos
-❤️ Sistema de favoritos
-🏷️ Filtro por categoria
-💾 Salvamento com localStorage
-👨‍💻 Autor
-
 Feito com 💙 por Gustavo Belchior
 
-```<p align="center"> ⭐ Se curtir o projeto, deixe uma estrela no repositório! </p> ```
+<p align="center"> ⭐ Se curtir o projeto, deixe uma estrela no repositório! </p> ```
