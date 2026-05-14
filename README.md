@@ -15,10 +15,10 @@
 ## 🎬 Preview do Projeto
 
 
-🍿 Interface estilo catálogo Netflix
-🛒 Produtos dinâmicos
-🎚️ Filtro de preço em tempo real
-✨ Animações suaves e modernas
+- 🍿 Interface estilo catálogo Netflix
+- 🛒 Produtos dinâmicos
+- 🎚️ Filtro de preço em tempo real
+- ✨ Animações suaves e modernas
 
 
 ---
